@@ -1,1 +1,1 @@
-0-bring_me_home: Changes the current working directory to the user's home directory.
+0-execute: Adds execute permission to the owner of the file hello.
